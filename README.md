@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Juliens's site
 
 You can use the [editor on GitHub](https://github.com/Freezlex/julien-ivars/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
