@@ -1,5 +1,7 @@
 ## Welcome to Juliens's site
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8c208bec-f36e-4ef3-a336-a404b0b04175/deploy-status)](https://app.netlify.com/sites/elegant-boyd-cca005/deploys)
+
 You can use the [editor on GitHub](https://github.com/Freezlex/julien-ivars/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
