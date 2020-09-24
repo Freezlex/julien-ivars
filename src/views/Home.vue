@@ -8,10 +8,6 @@
         <h1 class="w3-jumbo w3-animate-top" :style="{'color':`#${this.color}`}">COMING SOON</h1>
         <hr class="w3-border-grey" style="margin:auto;width:40%">
         <p class="w3-large w3-center">I'm working on</p>
-        <p class="w3-large w3-center" style="color : black;">Rends-toi ici : https://www.freezlex.com/#/surprise</p>
-      </div>
-      <div class="w3-display-bottomleft w3-padding-large">
-        Check my <a href="https://www.twitch.tv/Freezlex_" target="_blank">Twitch Channel</a>
       </div>
     </div>
   </div>

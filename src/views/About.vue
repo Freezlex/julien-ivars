@@ -5,7 +5,6 @@
         Freezlex
       </div>
       <div class="w3-display-middle">
-        <h1 class="w3-jumbo w3-animate-top">Bravo tu viens de découvrir cette section cachée !<br>Rend toi sur ce discord : <a href="https://www.discord.gg/mFQMxqx" target="_blank">discord.gg/mFQMxqx</a><br>puis dans le channel <a :style="{'color':`#${this.color}`}">#spam-bot</a> et enfin entre cette commande :<br><a :style="{'color':`#${this.color}`}">!claim IAMTHEFIRST</a><br>pour recevoir ta surprise 😊</h1>
       </div>
       <div class="w3-display-bottomleft w3-padding-large">
       Check my <a href="https://www.twitch.tv/Freezlex_" target="_blank">Twitch Channel</a>
