@@ -1,23 +1,37 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import PageNotFound from "@/views/PageNotFound";
 
 Vue.use(VueRouter)
 
   const routes = [
-  {
-    path: '/',
-    name: 'Home',
-    component: Home
-  },
-  {
-    path: '/surprise',
-    name: 'Surprise',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
-  }
+    {
+      path: '/',
+      name: 'Home',
+      component: Home
+    },
+    { path: '/discord',
+      beforeEnter(){
+        window.location = "https://www.discord.gg/mFQMxqx";
+      }
+    },
+    { path: '/twitter',
+      beforeEnter(){
+        window.location = "https://twitter.com/freezlex";
+      }
+    },
+    { path: '/github',
+      beforeEnter(){
+        window.location = "https://github.com/freezlex";
+      }
+    },
+    { path: '/youtube',
+      beforeEnter(){
+        window.location = "https://www.youtube.com/channel/UCkExyZZOlvhZv_3h_HaPYYw";
+      }
+    },
+    { path: '/:pathMatch(.*)*', component: PageNotFound }
 ]
 
 const router = new VueRouter({

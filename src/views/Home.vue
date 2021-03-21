@@ -1,41 +1,41 @@
 <template>
   <div class="home">
-    <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
-      <div class="w3-display-topleft w3-padding-large w3-xlarge">
-        Freezlex
-      </div>
-      <div class="w3-display-middle">
-        <h1 class="w3-jumbo w3-animate-top" :style="{'color':`#${this.color}`}">COMING SOON</h1>
-        <hr class="w3-border-grey" style="margin:auto;width:40%">
-        <p class="w3-large w3-center">I'm working on</p>
-      </div>
+    <sidebar class="leftcomp"/>
+    <div class="content">
+      <p id="freezlex">FREEZLEX</p>
     </div>
   </div>
 </template>
 
 <script>
-
+import Sidebar from "@/components/Sidebar";
 export default {
   name: 'Home',
-  data(){
-    return{
-      color: '#000000'
-    }
-  },
-  created() {
-    return this.color = Math.floor(Math.random()*16777215).toString(16);
-  }
+  components: {Sidebar}
 }
 </script>
 <style>
-@import url(https://www.w3schools.com/w3css/4/w3.css);
-@import url(https://fonts.googleapis.com/css?family=Raleway);
-body,h1 {font-family: "Raleway", sans-serif}
-body, html {height: 100%}
-.bgimg {
-  background-color: black;
+
+.home{
+  transition: .5s;
+  display: flex;
+  align-items: center;
+  background-color: #E5E5E5;
   height: 100vh;
-  background-position: center;
-  background-size: cover;
+  width: 100vw;
+}
+
+.content{
+  width: 100%;
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#freezlex{
+  font-family: "Big John", Avenir, Helvetica, Arial, sans-serif;
+  color: #171717;
+  font-size: 72px;
 }
 </style>
