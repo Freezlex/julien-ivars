@@ -14,7 +14,7 @@ const router = new VueRouter({
     { path: '/twitter', beforeEnter(){ window.location = "https://twitter.com/freezlex"; }},
     { path: '/github', beforeEnter(){ window.location = "https://github.com/freezlex"; }},
     { path: '/youtube', beforeEnter(){ window.location = "https://www.youtube.com/channel/UCkExyZZOlvhZv_3h_HaPYYw"; }},
-    { path: '/twitch', beforeEnter(){ window.location = "https://twitch.tv/freezlex_"; }
+    { path: '/twitch', beforeEnter(){ window.location = "https://twitch.tv/freezlex_"; }},
     { path: '/:pathMatch(.*)*', component: PageNotFound }
 ]
 });
