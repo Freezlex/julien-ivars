@@ -7,7 +7,7 @@ Vue.use(VueRouter)
 
 const router = new VueRouter({
   mode: 'history',
-  base: __dirname
+  base: __dirname,
   routes: [
     { path: '/', name: 'Home', component: Home },
     { path: '/discord', beforeEnter(){ window.location = "https://www.discord.gg/mFQMxqx"; }},
