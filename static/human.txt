@@ -1,0 +1,20 @@
+/* TEAM */
+  Developer: Ivars Julien
+  Site: freezlex.com
+  Twitter: @Freezlex
+  Twitch: Freezlex_
+  Location: Alsace, France
+
+/* THANKS */
+  Administrator (Discord): Matheo#6715
+
+  Administrator (Discord): Black-X#5618
+
+  Moderator (Discord): CeceMilk#6295
+
+  Moderator (Discord): SixFourSeven#0647
+
+/* SITE */
+  Language: English
+  Components: Vue
+  Software: IntelliJ, Sketch

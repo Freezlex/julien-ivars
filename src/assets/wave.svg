@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg845"
+   sodipodi:docname="wave.svg"
+   width="1920"
+   height="1080"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata851">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs849" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview847"
+     showgrid="false"
+     inkscape:zoom="0.31623387"
+     inkscape:cx="673.9612"
+     inkscape:cy="656.6413"
+     inkscape:window-x="1432"
+     inkscape:window-y="716"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg845"
+     inkscape:document-rotation="0" />
+  <path
+     fill="#3e4651"
+     fill-opacity="1"
+     d="m 1920,309.8199 -63.9996,-4.92 c -63.9995,-5.2913 -191.9987,-14.5742 -319.9978,-29.7054 -127.9992,-14.5742 -255.9983,-34.9966 -383.9974,-19.8654 -127.9992,14.5742 -255.99833,64.702 -383.99743,64.4235 -127.9991,0.2785 -255.9983,-49.8493 -383.9976,-49.5708 -127.999,-0.2785 -255.99805,49.8493 -319.997547,74.2634 L 0.01302344,369.23061 2.3437243e-5,1119.136 H 63.999623 383.99737 h 383.9973 383.99753 383.9978 319.9978 63.9996 z"
+     id="path843"
+     style="fill:#171717;fill-opacity:1;stroke-width:1.11254"
+     sodipodi:nodetypes="ccccccccccccccccc" />
+</svg>

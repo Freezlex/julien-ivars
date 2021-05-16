@@ -1,0 +1,51 @@
+# We have nothing to hide from our robot overlords
+# Curious who we are? See /humans.txt
+# (or the about section of the website, I don't control you)
+
+User-agent: *
+Allow: /
+
+Sitemap: https://freezlex.com/sitemap.xml
+
+#MMMMMMMMMMMMMMMMMMMMMMXd''kMMMMMMWN0O0XMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMMMMMMMMMMMMMXd,  .xMMMMXxc,.';kMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMMMMMMMMMMMNx'     :XMNx'    .cOMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMMMMMMMMMW0;       .dWk.     ;OXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMMMMMMMMWx.         .kx.     :0XMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMMMMMMMNo.           .dc     ,xKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMMMMMMWd.             .ll.   .:OMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMMMMMMO.                ;ol'  .cNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMMMMMX:                  .;odl:oXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMMMMM0'                     'ldkKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMMMMMO.                         .,cdOXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMMMMMO.                              .;o0WMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMMMMMK,                                 .:kNMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMWXOkXNl                                   .:0WMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMNkc.  ;00'                                    'kWMMMMMMMMMMMMMMMMMMMMM
+#MMMXd,      .l:                   .cc:;..           .oNMMMMMMMMMMMMMMMMMMMM
+#MNx'                              .lXWWNKkl,          cXMMMMMMMMMMMMMMMMMMM
+#0:                                  ':coool;.          cXMMMMMMMMMMMMMMMMMM
+#,                                                       ,xKWMMMMMMMMMMMMMMM
+#                                                          .,lx0XWMMMMMMMMMM
+#                                                               .;cdOXWMMMMM
+#                                                                    .,cd0NM
+#                                                                        .,d
+#.
+#:                                                                         .
+#x.                                     ........                          .d
+#X:              .:l.         .';coxkOOOOOOkkkkkkkxol:,..               .l0W
+#MO.            ,OWNo     .;okKNWWXkoc;,'.......',:loxkkxdoc;'..     .:xXWMM
+#MWd.          cKMMM0,.,lkXWMMWKd:.                    ..';:ccccoxxk0XWMMMMM
+#MMNl         cXMMMMW00NMMMMW0c.                    ...',,;::ccoONMMMMMMMMMM
+#MMMXc       ;KMMMMMMMMMMMW0c.                .':ldO0XNNWWWMMMMMMMMMMMMMMMMM
+#MMMMXl     .OMMMMXOKWMMMNd.               .:d0NWMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMNo.   oWMMMWd..xNMK:              .:xXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMWk' '0MMMMK;  .lx,            ':dKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMKldNMMMMk.                .dXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMMWWMMMMWd                :KWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMMMMMMMMWo              .oNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMMMMMMMMWd             .oNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMMMMMMMMM0:.           lNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMMMMMMMMMMW0o,.       ;KMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMMMMMMMMMMMMMN0o;.   .xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMMMMMMMMMMMMMMMMMNOl. ,KMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM

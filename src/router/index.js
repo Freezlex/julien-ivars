@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '@/views/Home'
 import PageNotFound from "@/views/PageNotFound";
+import Flashbang from "@/views/Flashbang";
 
 Vue.use(VueRouter)
 
@@ -10,6 +11,7 @@ const router = new VueRouter({
   base: __dirname,
   routes: [
     { path: '/', name: 'Home', component: Home },
+    { path: '/flashbang', name: 'Flashbang', component: Flashbang },
     { path: '/discord', beforeEnter(){ window.location = "https://www.discord.gg/mFQMxqx"; }},
     { path: '/twitter', beforeEnter(){ window.location = "https://twitter.com/freezlex"; }},
     { path: '/github', beforeEnter(){ window.location = "https://github.com/freezlex"; }},
