@@ -3,6 +3,7 @@ import VueRouter from 'vue-router'
 import Home from '@/views/Home'
 import PageNotFound from "@/views/PageNotFound";
 import Flashbang from "@/views/Flashbang";
+import Sidebar from "@/components/Sidebar";
 
 Vue.use(VueRouter)
 
@@ -12,6 +13,7 @@ const router = new VueRouter({
   routes: [
     { path: '/', name: 'Home', component: Home },
     { path: '/flashbang', name: 'Flashbang', component: Flashbang },
+    { path: '/test', name: 'Test', component: Sidebar },
     { path: '/discord', beforeEnter(){ window.location = "https://www.discord.gg/mFQMxqx"; }},
     { path: '/twitter', beforeEnter(){ window.location = "https://twitter.com/freezlex"; }},
     { path: '/github', beforeEnter(){ window.location = "https://github.com/freezlex"; }},
